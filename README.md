@@ -9,8 +9,9 @@ Also, the template will include a filter for error handling.
 ## Installation
 
 ```
-$ git clone https://github.com/php-mvc-project/template-default.git
-$ composer install
+git clone https://github.com/php-mvc-project/template-default.git my-app
+cd my-app
+composer install
 ```
 
 ## Requirements
