@@ -1,0 +1,11 @@
+.set-colon-to-labels label::after {
+  content: ':';
+}
+
+.field-validation-error {
+  color: red;
+}
+
+.validation-summary-errors {
+  color: red;
+}
