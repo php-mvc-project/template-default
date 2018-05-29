@@ -6,6 +6,8 @@ The template includes a standard directory structure MVC, contains a samples of 
 
 Also, the template will include a filter for error handling.
 
+[Demo](http://template-default.rf.gd/)
+
 ## Installation
 
 ```
